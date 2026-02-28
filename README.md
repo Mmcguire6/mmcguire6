@@ -9,4 +9,4 @@ I'm a web design and development student and data analyst. Currently enrolled wh
 - 🌐 Portfolio: [MatthewMcGuire](https://matthewmcguire.ca/) - Personal Website
 
 ## Connect
-- 📧 [mattmcguire@shaw.ca]
+- 📧 [Email](mattmcguire@shaw.ca)
