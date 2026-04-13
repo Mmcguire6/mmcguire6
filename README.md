@@ -5,7 +5,9 @@ I'm a web design and development student and data analyst. Currently enrolled wh
 ## About Me
 - 🎓 Studying web design and development
 - 📊 Working in data analytics
-- 🚀 Building: [DataFuse](https://www.datafuse.app/) — a Shopify analytics app
+- 🚀 Building:
+- [CloseCombat](https://closecombat.app/) - An AI Sales Trainer
+- [DataFuse](https://www.datafuse.app/) — a Shopify analytics app
 - 🌐 Portfolio: [MatthewMcGuire](https://matthewmcguire.ca/) - Personal Website
 
 ## Connect
