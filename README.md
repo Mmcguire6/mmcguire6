@@ -1,14 +1,20 @@
 # Hi, I'm Matthew 👋
 
-I'm a web design and development student and data analyst. Currently enrolled while also working on a side project.
+Founder & developer based in Alberta. I build SaaS products, 
+work in data analytics, and study web development.
 
-## About Me
-- 🎓 Studying web design and development
-- 📊 Working in data analytics
-- 🚀 Building:
-- [CloseCombat](https://closecombat.app/) - An AI Sales Trainer
-- [DataFuse](https://www.datafuse.app/) — a Shopify analytics app
-- 🌐 Portfolio: [MatthewMcGuire](https://matthewmcguire.ca/) - Personal Website
+## Building
+
+- [CloseCombat](https://closecombat.app/) — AI sales trainer for reps and teams
+- [Datafuse](https://www.datafuse.app/) — Profit analytics for Shopify merchants
+
+## Background
+
+- 📊 Data analyst (contracting)
+- 🎓 Web design & development student
+- 🔧 Stack: Next.js · Postgres · Prisma · Vercel
 
 ## Connect
-- 📧 [Email](mattmcguire@shaw.ca)
+
+- 🌐 [matthewmcguire.ca](https://matthewmcguire.ca/)
+- 📧 [matt@matthewmcguire.ca](mailto:matt@matthewmcguire.ca)
