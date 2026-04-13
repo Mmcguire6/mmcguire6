@@ -17,4 +17,4 @@ work in data analytics, and study web development.
 ## Connect
 
 - 🌐 [matthewmcguire.ca](https://matthewmcguire.ca/)
-- 📧 [matt@matthewmcguire.ca](mailto:matt@matthewmcguire.ca)
+- 📧 [mattmcguire@shaw.ca](mailto:mattmcguire@shaw.ca)
