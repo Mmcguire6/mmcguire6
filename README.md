@@ -5,6 +5,7 @@ work in data analytics, and study web development.
 
 ## Building
 
+- [Northern Peak Systems](https://northernpeaksystems.ca/) - Digital Marketing Agency
 - [CloseCombat](https://closecombat.app/) — AI sales trainer for reps and teams
 - [Datafuse](https://www.datafuse.app/) — Profit analytics for Shopify merchants
 
