@@ -16,6 +16,6 @@ work in data analytics, and am studying web development.
 - 🔧 Stack: Next.js · Postgres · Prisma · Vercel
 
 ## Connect
-
+- 📧 [matt@northernpeaksystems.ca](mailto:matt@northernpeaksystems.ca)
 - 🌐 [matthewmcguire.ca](https://matthewmcguire.ca/)
-- 📧 [mattmcguire@shaw.ca](mailto:mattmcguire@shaw.ca)
+  
