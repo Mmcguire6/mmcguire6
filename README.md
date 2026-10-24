@@ -1,6 +1,6 @@
 # Hi, I'm Matthew 👋
 
-Founder & developer based in Alberta. I own a digital marketing agency - [Northern Peak Systems](https://northernpeaksystems.ca/), build SaaS products, 
+Founder & developer based in Alberta. I own a digital marketing agency - [Northern Peak Systems](https://northernpeaksystems.ca/) - , build SaaS products, 
 work in data analytics, and am studying web development.
 
 ## Building
